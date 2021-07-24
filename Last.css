@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.text-center{
+    text-align: center;
+}
+
+.parent{
+    text-align: center;
+    margin: 0 auto;
+}
+
+p,footer{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+#top{
+    color: rgb(236, 10, 21);
+}
+
+p{
+    font-size: 2em;
+}
+li{
+    font-size: 2em;
+}
+
+h1{
+    font-size: 4em;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: cornflowerblue;
+}
+
+h1:hover {
+    background-color: rgb(12, 14, 1);
+}
+
+a:hover {
+    font-size: 3em;
+}
+
+
+
+
